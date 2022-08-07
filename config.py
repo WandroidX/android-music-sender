@@ -1,0 +1,5 @@
+ANDROID_NAME = 'Telefono de Wanderson'
+ANDROID_IP = '192.168.1.36'
+ADB_EXECUTABLE_PATH = r'C:\users\crist\downloads\creative_projects\adb\adb.exe'
+ANDROID_MUSIC_FOLDER_PATH = '/sdcard/music/'
+PC_MUSIC_FOLDER_PATH = r'C:\Users\Crist\Music'
